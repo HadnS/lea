@@ -1,5 +1,7 @@
 package service;
-
+/*
+注释
+ */
 import dao.User;
 
 public interface UserService {
