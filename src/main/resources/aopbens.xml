@@ -1,0 +1,19 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"-->
+
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">-->
+
+<!--&lt;!&ndash;    注册&ndash;&gt;-->
+<!--    <bean id="UserService" class="hs.example.day_03.UserServiceImp"></bean>-->
+<!--    <bean id="Log" class="hs.example.day_03.Log"></bean>-->
+
+<!--&lt;!&ndash;    配置&ndash;&gt;-->
+<!--   <aop:config>-->
+<!--       <aop:pointcut id="pointcut" expression="execution(* hs.example.day_03.UserServiceImp.*(..))"/>-->
+<!--       <aop:advisor advice-ref="Log" pointcut-ref="pointcut"></aop:advisor>-->
+<!--   </aop:config>-->
+
+
+
+<!--</beans>-->
