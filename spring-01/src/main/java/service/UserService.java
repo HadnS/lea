@@ -10,6 +10,9 @@ import dao.User;
 /*1
 
  */
+/*
+2
+ */
 public interface UserService {
     public  void setUser(User user);
     public void getUser();
