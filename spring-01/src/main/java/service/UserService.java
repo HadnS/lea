@@ -7,6 +7,9 @@ import dao.User;
 /*
 第三次提交
  */
+/*1
+
+ */
 public interface UserService {
     public  void setUser(User user);
     public void getUser();
